@@ -1,0 +1,57 @@
+Quiz para o jogo 
+
+
+1 - Possui sua própria unidade lógica e  aritmética, registradores e unidades de controle:
+
+a - ULA (unidade lógica e aritmética)
+b - UC  (unidade de controle)
+c - CPU (central de processamento) - resposta certa
+d - PC (contador de programa)
+
+
+2 - Responsável por realizar as operações lógicas (NOT, AND, OR, XOR) e operações aritméticas (adição, subtração, multiplicação, divisão):
+
+a - ULA (unidade lógica e aritmética) - resposta certa
+b - UC  (unidade de controle)
+c - CPU (central de processamento) 
+d - PC (contador de programa)
+
+
+3 - Corresponde uma memória local rápida do microprocessador, destinada ao armazenamento de dados e instruçõe: 
+
+a - ROM
+b - RAM
+c - Barramento de dados
+d - Registradores - resposta certa
+
+
+4 - São tipos de memórias os seguintes itens:
+
+a - RAM, ROM, Eprom, Flash, memória em massa. - resposta certa
+b - RAM, ROM, UC, Flash, memória de massa.
+c - RAM, ROM, UC, PC, memória de massa.
+d - Eprom, Flash, memória de massa.
+
+5 - Possibilita que subsistemas de hardware dentro do computador acessem a memória do sistema, sem depender da unidade de processamento central:
+
+a - DMA - resposta certa
+b - UC
+c - PC
+d - Barramento de endereço
+
+
+6 - Função da unidade de processamento centrarl que seleciona um chip de determinada parte do hardware, dando a permissão de acesso ou não:
+
+a - CS (chip select) - resposta certa
+b - UC (unidade de controle)
+c - PC (contador de programa)
+d - Barramento de componentes
+
+7 - Os barramentos transportam informações entre os vários componentes internos do processador, como cache L1, registros. Seguindo essas definições, para barramento de endereço e barramento de dados podemos chamá-los também: 
+
+a - address bus e data bus- resposta certa
+b - adress bus e barramento de controle
+c - barramento interno e barramento de controle
+d - barramento interno
+
+
